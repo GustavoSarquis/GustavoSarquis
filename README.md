@@ -26,15 +26,6 @@ Sou estudante de **Engenharia da Computação**. Tenho foco no desenvolvimento b
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSarquis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSarquis&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 <div align="left">
